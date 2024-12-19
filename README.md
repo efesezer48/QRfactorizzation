@@ -1,4 +1,4 @@
-# QRfactorizzation
+# QRfactorization
 What is QR Factorization?
 QR factorization is a method in linear algebra where a given matrix 𝐴 is decomposed into the product of two matrices:
 1 - Q: An orthogonal (or unitary) matrix where columns are orthonormal vectors ( Q.Q^T = I)
